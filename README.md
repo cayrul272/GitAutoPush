@@ -97,10 +97,4 @@ AutoPush/
 - Check that the repository directory contains a `.git` folder
 - Review log files for detailed error information
 
-## License
 
-This project is open source and available under the MIT License.
-
-## Contributing
-
-Feel free to submit issues, feature requests, or pull requests to improve this tool.
